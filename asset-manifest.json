@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qr-app/static/css/main.b001e04a.css",
+    "main.js": "/qr-app/static/js/main.1c86d7c6.js",
+    "static/js/453.5d1c6f6b.chunk.js": "/qr-app/static/js/453.5d1c6f6b.chunk.js",
+    "index.html": "/qr-app/index.html",
+    "main.b001e04a.css.map": "/qr-app/static/css/main.b001e04a.css.map",
+    "main.1c86d7c6.js.map": "/qr-app/static/js/main.1c86d7c6.js.map",
+    "453.5d1c6f6b.chunk.js.map": "/qr-app/static/js/453.5d1c6f6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b001e04a.css",
+    "static/js/main.1c86d7c6.js"
+  ]
+}
